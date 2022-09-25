@@ -1,0 +1,540 @@
+Player,Sal Name,Bat_role2,bat_hand,bowl_hand,bowl_stype,bowl_type,nationality,overseas
+A Dinda,Ashok Dinda,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+A Milne,Adam Milne,Bowler, Right Handed Bat ,Right ,Fast,Pace,New Zealand,1
+A Mishra,Amit Mishra,Bowler, Right Handed Bat ,Left,Leg Break,Spin,India,0
+A Mithun,Abhimanyu Mithun,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+A Nehra,Ashish Nehra,Bowler, Right Handed Bat ,Left,Medium,Pace,India,0
+A Nortje,Anrich Nortje,Bowler, Right Handed Bat ,Right ,Fast,Pace,South Africa,1
+A Rajpoot,Ankit Rajpoot,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+A Sharma,Ankit Sharma,Bowler, Left Handed Bat ,Left,Off Break,Spin,India,0
+A Singh,Amit Singh,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+A Tye,Andrew Tye,Bowler, Right Handed Bat ,Right ,Medium,Pace,Australia,1
+A Zampa,Adam Zampa,Bowler, Right Handed Bat ,Left,Leg Break,Spin,Australia,1
+Anureet Singh,Anureet Singh,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+Avesh Khan,Avesh khan,Bowler, Right Handed Bat ,Right ,Fast,Pace,India,0
+B Bhatt,Bhargav Bhatt,Bowler, Left Handed Bat ,Left,Off Break,Spin,India,0
+B Sharma,Bipul Sharma,Bowler, Left Handed Bat ,Left,Off Break,Spin,India,0
+B Sran,Barinder Sran,Bowler, Left Handed Bat ,Left,Medium,Pace,India,0
+B Stanlake,Billy Stanlake,Bowler, Left Handed Bat ,Right ,Fast,Pace,Australia,1
+B Thampi,Basil Thampi,Bowler, Right Handed Bat ,Right ,Fast,Pace,India,0
+C Jordan,Chris Jordan,Bowler, Right Handed Bat ,Right ,Fast,Pace,England,1
+C Sakariya,Chetan Sakariya,Bowler, Left Handed Bat ,Left,Fast,Pace,India,0
+D Chahar,Deepak Chahar,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+D Kulkarni,Dhawal Kulkarni,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+D Steyn,Dale Steyn,Bowler, Right Handed Bat ,Right ,Fast,Pace,South Africa,1
+G Hogg,Brad Hogg,Bowler, Left Handed Bat ,Left,Leg Break,Spin,Australia,1
+I Abdulla,Iqbal Abdulla,Bowler, Left Handed Bat ,Left,Off Break,Spin,India,0
+I Pandey,Ishwar Pandey,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+I Sharma,Ishant Sharma,Bowler, Right Handed Bat ,Right ,Fast,Pace,India,0
+I Tahir,Imran Tahir,Bowler, Right Handed Bat ,Left,Leg Break,Spin,South Africa,1
+J Bumrah,Jasprit Bumrah,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+J Hazlewood,Josh Hazlewood,Bowler, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+J Suchith,Jagadeesha Suchith,Bowler, Left Handed Bat ,Left,Off Break,Spin,India,0
+J Theron,Juan Theron,Bowler, Right Handed Bat ,Right ,Fast,Pace,South Africa,1
+J Unadkat,Jaydev Unadkat,Bowler, Right Handed Bat ,Left,Medium,Pace,India,0
+J Yadav,Jayant Yadav,Bowler, Right Handed Bat ,Right ,Off Break,Spin,India,0
+K Ahmed,Khaleel Ahmed,Bowler, Right Handed Bat ,Left,Medium,Pace,India,0
+K Cariappa,KC Cariappa,Bowler, Right Handed Bat ,Left,Leg Break,Spin,India,0
+K Richardson,Kane Richardson,Bowler, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+KL Nagarkoti,Kamlesh Nagarkoti,Bowler, Right Handed Bat ,Right ,Fast,Pace,India,0
+Kuldeep Yadav,Kuldeep Yadav,Bowler, Left Handed Bat ,Left,Leg Break,Spin,India,0
+L Balaji,Lakshmipathy Balaji,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+L Ferguson,Lockie Ferguson,Bowler, Right Handed Bat ,Right ,Fast,Pace,New Zealand,1
+M deLange,Marchant De Lange,Bowler, Right Handed Bat ,Right ,Fast,Pace,South Africa,1
+M Gony,Manpreet Gony,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+M Kartik,Murali Kartik,Bowler, Left Handed Bat ,Left,Off Break,Spin,India,0
+M Markande,Mayank Markande,Bowler, Right Handed Bat ,Right ,Leg Break,Spin,India,0
+M Muralitharan,Muttiah Muralitharan,Bowler, Right Handed Bat ,Right ,Off Break,Spin,Sri Lanka,1
+M Patel,Munaf Patel,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+M Rahman,Mustafizur Rahman,Bowler, Left Handed Bat ,Left,Fast,Pace,Bangladesh,1
+M Shami,Mohammed Shami,Bowler, Right Handed Bat ,Right ,Fast,Pace,India,0
+M Siraj,Mohammed Siraj,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+M UrRahman,Mujeeb Ur Rahman,Bowler, Right Handed Bat ,Right ,Off Break,Spin,Afghanistan,1
+N CoulterNile,Nathan Coulter-Nile,Bowler, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+P Awana,Parvinder Awana,Bowler, Right Handed Bat ,Right ,Off Break,Spin,India,0
+P Cummins,Pat Cummins,Bowler, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+P Dogra,Paras Dogra,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+P Ojha,Pragyan Ojha,Bowler, Left Handed Bat ,Left,Off Break,Spin,India,0
+P Sangwan,Pradeep Sangwan,Bowler, Right Handed Bat ,Left,Medium,Pace,India,0
+P Simran Singh,Prabhsimran Singh,Bowling Allrounder, Right Handed Bat ,0,0,0,India,0
+R Meredith,Riley Meredith,Bowler, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+R Patidar,Rajat Patidar,Batsman, Right Handed Bat ,Left,0,0,India,0
+R Powar,Ramesh Powar,Bowler, Right Handed Bat ,Right ,Off Break,Spin,India,0
+R Sharma,Rahul Sharma,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+R Singh,R.P.Singh,Bowler, Right Handed Bat ,Left,Fast,Pace,India,0
+R Tewatia,Rahul Tewatia,Bowler, Left Handed Bat ,Left,Leg Break,Spin,India,0
+R VinayKumar,Vinay Kumar,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+S Aravind,Sreenath Aravind,Bowler, Left Handed Bat ,Left,Medium,Pace,India,0
+S Badree,Samuel Badree,Bowler, Right Handed Bat ,Left,Leg Break,Spin,West Indies,1
+S Jakati,Shadab Jakati,Bowler, Left Handed Bat ,Left,Off Break,Spin,India,0
+S Kaul,Siddharth Kaul,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+S Kaushik,S Kaushik,Bowler, Right Handed Bat ,Left,Leg Break,Spin,India,0
+S Lamichhane,Sandeep Lamichhane,Bowler, Right Handed Bat ,Left,Leg Break,Spin,Nepal,1
+S Malinga,Lasith Malinga,Bowler, Right Handed Bat ,Right ,Fast,Pace,Sri Lanka,1
+S Nadeem,Shahbaz Nadeem,Bowler, Right Handed Bat ,Left,Off Break,Spin,India,0
+S Rutherford,Sherfane Rutherford,Batting Allrounder, Left Handed Bat,Right ,Fast,Pace,West Indies,1
+S Sharma,Sandeep Sharma,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+S Tait,Shaun Tait,Bowler, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+Shivam Mavi,Shivam Mavi,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,India,0
+Shivam Sharma,Shivam Sharma,Bowler, Right Handed Bat ,Right ,Off Break,Spin,India,0
+T Boult,Trent Boult,Bowler, Right Handed Bat ,Left,Fast,Pace,New Zealand,1
+T Natarajan,T Natarajan,Bowler, Left Handed Bat ,Left,Medium,Pace,India,0
+T Shamsi,Tabraiz Shamsi,Bowler, Right Handed Bat ,Left,Leg Break,Spin,South Africa,1
+T Southee,Tim Southee,Bowler, Right Handed Bat ,Right ,Medium,Pace,New Zealand,1
+TU Deshpande,Tushar Deshpande,Bowler, Left Handed Bat,Right ,Medium,Pace,India,0
+U Malik,Umran Malik,Bowler, Right Handed Bat ,Right ,Fast,Pace,India,0
+V Aaron,Varun Aaron,Bowler, Right Handed Bat ,Right ,Fast,Pace,India,0
+V Chakravarthy,Varun Chakravarti,Bowler, Right Handed Bat ,Left,Leg Break,Spin,India,0
+V Malik,Vikramjeet Malik,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+Y Chahal,Yuzvendra Chahal,Bowler, Right Handed Bat ,Left,Leg Break,Spin,India,0
+YBK Jaiswal,Yashasvi Jaiswal,Batsman, Left Handed Bat,Right ,Leg Break,Spin,India,0
+A Agarkar,Ajit Agarkar,Bowler, Right Handed Bat ,Right ,Fast,Pace,India,0
+A AshishReddy,Ashish Reddy,Bowling Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+P Parameswaran,P Parameswaran,Bowler, Right Handed Bat ,Left,Medium,Pace,India,0
+Rasikh Salam,Rasikh Dar,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+A Ahmed,Abu Nechim,Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+A Badoni,Ayush Badoni,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+A Bawne,Ankit Bawne,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+A Blizzard,Aiden Blizzard,Batsman, Left Handed Bat ,Left,Medium,Pace,Australia,1
+A Carey,Alex Carey,WK-Batsman, Left Handed Bat ,0,0,0,Australia,1
+A Chandila,Ajit Chandila,Bowling Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+A Chavan,Ankeet Chavan,Bowling Allrounder, Left Handed Bat ,Left,Off Break,Spin,India,0
+A Choudhary,Aniket Choudhary,Bowler, Right Handed Bat ,Left,Medium,Pace,India,0
+A Dananjaya,Akila Dananjaya,Bowler, Left Handed Bat ,Right ,Off Break,Spin,Sri Lanka,1
+A Deep,Akash Deep,Bowling Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+A deVilliers,AB de Villiers,WK-Batsman, Right Handed Bat ,Right ,Medium,Pace,South Africa,1
+A Finch,Aaron Finch,Batsman, Right Handed Bat ,Left,Off Break,Spin,Australia,1
+A Gilchrist,Adam Gilchrist,WK-Batsman, Left Handed Bat ,Right ,Off Break,Spin,Australia,1
+A Hales,Alex Hales,Batsman, Right Handed Bat ,Right ,Medium,Pace,England,1
+A Jhunjhunwala,Abhishek Jhunjhunwala,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+A Joseph,Alzarri Joseph,Bowler, Right Handed Bat ,Right ,Fast,Pace,West Indies,1
+A Kazi,Abrar Kazi,Bowler,0,Left,Off Break,Spin,India,0
+A Mahmood,Azhar Mahmood,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,India,0
+A Majumdar,Anustup Majumdar,Batting Allrounder, Right Handed Bat ,Left,Leg Break,Spin,India,0
+A Manohar,Abhinav Manohar Sadarangani,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+A Markram,Aiden Markram,Batsman, Right Handed Bat ,Right ,Off Break,Spin,South Africa,1
+A Mascarenhas,Dimitri Mascarenhas,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,England,1
+A Mathews,Angelo Mathews,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,Sri Lanka,1
+A McDonald,Andrew McDonald,Batting Allrounder, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+A Menaria,Ashok Menaria,Batting Allrounder, Left Handed Bat ,Left,Off Break,Spin,India,0
+A Mukund,Abhinav Mukund,Batsman, Left Handed Bat ,Left,Leg Break,Spin,India,0
+A Murtaza,Ali Murtaza,Bowler, Left Handed Bat ,Left,Off Break,Spin,India,0
+A Nath,Akshdeep Nath,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+A Nayar,Abhishek Nayar,Batting Allrounder, Left Handed Bat ,Right ,Medium,Pace,India,0
+A Patel,Axar Patel,Bowling Allrounder, Left Handed Bat ,Left,Off Break,Spin,India,0
+A Pathan,Asad Pathan,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+A Paunikar,Amit paunikar,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+A Rahane,Ajinkya Rahane,Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+A Rajan,Anand Rajan,Bowler,0,Right ,Medium,Pace,India,0
+A Rashid,Adil Rashid, Bowler ,0,Right ,Leg Break,Spin,England,1
+A Raut,Abhishek Raut,Batting Allrounder, Right Handed Bat ,Left,Leg Break,Spin,India,0
+A Rawat,Anuj Rawat,WK-Batsman, Left Handed Bat ,0,0,0,India,0
+A Rayudu,Ambati Rayudu,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+A Russell,Andre Russell,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,West Indies,1
+A Salvi,Aavishkar Salvi,Bowler,0,Right ,Medium,Pace,India,0
+A Soni,Ankit Soni,Bowler, Right Handed Bat ,Left,Leg Break,Spin,India,0
+A Symonds,Andrew Symonds,Batting Allrounder, Right Handed Bat ,Right ,Both,0,Australia,1
+A Tare,Aditya Tare,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+A Thomas,Alfonso Thomas,Bowler, Right Handed Bat ,Right ,Fast,Pace,South Africa,1
+A Tomar,Abhijeet Tomar,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+A Turner,Ashton Turner,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,Australia,1
+Abdul Samad,Abdul Samad,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+Abhishek Sharma,Abhishek Sharma,Bowling Allrounder, Left Handed Bat,Left,Off Break,Spin,India,0
+AH Khan,Aman Khan,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+AM Singh,Akash Singh,Bowler,0,Left,Medium,Pace,India,0
+Anmolpreet Singh,Anmolpreet Singh,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+Arshdeep Singh,Arshdeep Singh,Bowler, Left Handed Bat,Left,Medium,Pace,India,0
+AS Roy,Anukul Roy,Bowling Allrounder, Left Handed Bat ,Left,Off Break,Spin,India,0
+B Akhil,Balachandra Akhil,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+B Chipli,Bharat Chipli,Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+B Cutting,Ben Cutting,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,South Africa,1
+B Dunk,Ben Dunk,WK-Batsman, Left Handed Bat ,Right ,Off Break,Spin,Australia,1
+B Haddin,Brad Haddin,WK-Batsman, Right Handed Bat ,0,0,0,Australia,1
+B Hendricks,Beuran Hendricks,Bowler, Left Handed Bat ,Left,Fast,Pace,South Africa,1
+B Hilfenhaus,Ben Hilfenhaus,Bowler,0,Right ,Fast,Pace,Australia,1
+B Hodge,Brad Hodge,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,Australia,1
+B Indrajith,Baba Indrajith,Batsman, Right Handed Bat ,0,0,0,India,0
+B Kumar,Bhuvneshwar kumar,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+B Laughlin,Ben Laughlin,Bowler, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+B Lee,Brett Lee,Bowler, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+B McCullum,Brendon McCullum,WK-Batsman, Right Handed Bat ,Right ,Both,0,New Zealand,1
+B Mendis,Ajantha Mendis,Bowler, Right Handed Bat ,Right ,Off Break,Spin,Sri Lanka,1
+B Rajapaksa,Bhanuka Rajapaksa,Batsman, Left Handed Bat ,Right ,Medium,Pace,Sri Lanka,1
+B Rohrer,Ben Rohrer,Batsman, Left Handed Bat ,Right ,Medium,Pace,Australia,1
+B Samantray,Biplab Samantray,Batsman, Right Handed Bat ,0,0,0,India,0
+B Stokes,Ben Stokes,Batting Allrounder, Left Handed Bat ,Right ,Fast,Pace,England,1
+B Sudharsan,B Sai Sudarshan,Batsman, Left Handed Bat ,Left,Leg Break,Spin,India,0
+BMAJ Mendis,Jeevan Mendis,Bowler, Right Handed Bat ,Left,Leg Break,Spin,Sri Lanka,1
+C Anderson,Corey Anderson,Batting Allrounder, Left Handed Bat ,Left,Medium,Pace,New Zealand,1
+C Brathwaite,Carlos Brathwaite,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,West Indies,1
+C deGrandhomme,Colin De Grandhomme,Batting Allrounder, Right Handed Bat ,Right ,Fast,Pace,New Zealand,1
+C Ferguson,Callum Ferguson,Batsman, Right Handed Bat ,Right ,Medium,Pace,Australia,1
+C Gautam,Chidhambaram Gautam,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+C Gayle,Chris Gayle,Batsman, Left Handed Bat ,Right ,Off Break,Spin,West Indies,1
+C Ingram,Colin Ingram,Batsman, Left Handed Bat ,Left,Leg Break,Spin,South Africa,1
+C Langeveldt,Charl Langeveldt,Bowler, Right Handed Bat ,Right ,Fast,Pace,South Africa,1
+C Lynn,Chris Lynn,Batsman, Right Handed Bat ,Left,Off Break,Spin,Australia,1
+C McKay,Clint McKay,Bowler, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+C Morris,Chris Morris,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,South Africa,1
+C Munro,Colin Munro,Batting Allrounder, Left Handed Bat ,Right ,Medium,Pace,New Zealand,1
+C Pujara,Cheteshwar Pujara,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+C White,Cameron White,Batsman, Right Handed Bat ,Left,Leg Break,Spin,Australia,1
+C Woakes,Chris Woakes,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,England,1
+D Bollinger,Doug Bollinger,Bowler, Left Handed Bat ,Left,Fast,Pace,Australia,1
+D Bracewell,Doug Bracewell,Bowler, Right Handed Bat ,Right ,Fast,Pace,New Zealand,1
+D Bravo,Dwayne Bravo,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,West Indies,1
+D Brevis,Dewald Brevis,Batting Allrounder, Right Handed Bat ,Right ,Leg Break,Spin,South Africa,1
+D Chameera,Dushmantha Chameera,Bowler, Right Handed Bat ,Right ,Fast,Pace,Sri Lanka,1
+D Christian,Daniel Christian,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+D Conway,Devon Conway,WK-Batsman, Left Handed Bat ,Right ,Medium,Pace,New Zealand,1
+D Das,Debabrata Das,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+D Harris,Daniel Harris,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,West Indies,1
+D Hooda,Deepak Hooda,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+D Hussey,David Hussey,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,Australia,1
+D Jacobs,Davy Jacobs,WK-Batsman, Right Handed Bat ,Right ,Medium,Pace,South Africa,1
+D Jayawardene,Mahela Jayawardene,Batsman, Right Handed Bat ,Right ,Medium,Pace,Sri Lanka,1
+D Malan,Dawid Malan,Batsman, Left Handed Bat,0,0,0,England,1
+D Miller,David Miller,Batsman, Left Handed Bat ,Right ,Off Break,Spin,South Africa,1
+D Muthuswami,Domnic Joseph,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+D Nannes,Dirk Nannes,Bowler,0,Left,Fast,Pace,Australia,1
+D Padikkal,Devdutt Padikkal,Batsman, Left Handed Bat,Right ,Off Break,Spin,India,0
+D Pretorius,Dwaine Pretorius,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,South Africa,1
+D RaviTeja,Dwaraka Ravi Teja,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+D Sammy,Darren Sammy,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,West Indies,1
+D Shorey,Dhruv Shorey,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+D Short,D'Arcy Short,Batsman, Left Handed Bat,Left,Off Break,Spin,Australia,1
+D Smith,Dwayne Smith,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,West Indies,1
+D Vettori,Daniel Vettori,Bowling Allrounder, Left Handed Bat ,Left,Off Break,Spin,New Zealand,1
+D Warner,David Warner,Batsman, Left Handed Bat ,Left,Leg Break,Spin,Australia,1
+D Wiese,David Wiese,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,South Africa,1
+D Willey,David Willey,Bowling Allrounder, Left Handed Bat ,Left,Fast,Pace,England,1
+D Yagnik,Dishant Yagnik,WK-Batsman, Left Handed Bat ,0,0,0,India,0
+DG Nalkande,Darshan Nalkande,Bowler,0,Right ,Fast,Pace,India,0
+DJ Mitchell,Daryl Mitchell,Bowling Allrounder, Right Handed Bat ,Right ,Medium,Pace,New Zealand,1
+DM Bravo,Darren Bravo,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,West Indies,1
+DR Sams,Daniel Sams,Bowling Allrounder, Right Handed Bat ,Left,Fast,Pace,Australia,1
+E Dwivedi,Eklavya Dwivedi,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+E Lewis,Evin Lewis,Batsman, Left Handed Bat ,0,0,0,West Indies,1
+E Morgan,Eoin Morgan,Batsman, Left Handed Bat ,Right ,Medium,Pace,England,1
+F Allen,Fabian Allen,Bowling Allrounder, Right Handed Bat ,Left,Off Break,Spin,West Indies,1
+F Behardien,Farhaan Behardien,Batting Allrounder, Right Handed Bat ,Right ,Fast,Pace,South Africa,1
+F duPlessis,Francois Du Plessis,Batsman, Right Handed Bat ,Left,Leg Break,Spin,South Africa,1
+F Farooqi,Fazalhaq Farooqi,Bowler, Left Handed Bat ,Left,Fast,Pace,Afghanistan,1
+F Fazal,Faiz Fazal,Batsman, Left Handed Bat ,Right ,Medium,Pace,India,0
+G Bailey,George Bailey,Batsman, Right Handed Bat ,Right ,Medium,Pace,Australia,1
+G Gambhir,Gautam Gambhir,Batsman, Left Handed Bat ,Left,Leg Break,Spin,India,0
+G Garton,George Garton,Bowling Allrounder, Left Handed Bat,Left,Fast,Pace,England,1
+G Maxwell,Glenn Maxwell,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,Australia,1
+G Philips,Glenn Phillips,WK-Batsman, Right Handed Bat ,Right ,Off Break,Spin,New Zealand,1
+G Singh,Gurkeerat Singh,Bowler, Right Handed Bat ,Right ,Off Break,Spin,India,0
+G Smith,Graeme Smith,Batsman, Right Handed Bat ,Right ,Off Break,Spin,South Africa,1
+H Amla,Hashim Amla,Batsman, Right Handed Bat ,Right ,Both,0,South Africa,1
+H Brar,Harpreet Brar,Batting Allrounder, Left Handed Bat,Left,Off Break,Spin,India,0
+H Gibbs,Herschelle Gibbs,Batsman, Right Handed Bat ,Right ,Medium,Pace,South Africa,1
+H Gurney,Harry Gurney,Bowler, Right Handed Bat ,Left,Fast,Pace,England,1
+H Klaasen,Heinrich klaasen,WK-Batsman, Right Handed Bat ,0,0,0,South Africa,1
+H Pandya,Hardik Pandya,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+H Patel,Harshal Patel,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+H Singh,Harbhajan Singh,Bowler, Right Handed Bat ,Right ,Off Break,Spin,India,0
+H Singh-2,Harmeet Singh,Bowler,0,Left,Off Break,Spin,India,0
+H Vihari,Hanuma Vihari,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+H Viljoen,Hardus Viljoen,Bowler, Right Handed Bat ,Right ,Fast,Pace,South Africa,1
+Harmeet Singh,Harmeet Singh Bansal,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+Harpreet Singh,Harpreet Singh,Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+Harshit Rana,Harshit Rana,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+HE van der Dussen,Rassie van der Dussen,Batsman, Right Handed Bat ,Right ,Leg Break,Spin,South Africa,1
+HR Shokeen,Hrithik Shokeen,Bowler, Right Handed Bat ,Right ,Off Break,Spin,India,0
+I Jaggi,Ishank Jaggi,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+I Kishan,Ishan Kishan,WK-Batsman, Left Handed Bat ,0,0,0,India,0
+I Malhotra,Ishan Malhotra,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+I Pathan,Irfan Pathan,Bowling Allrounder, Left Handed Bat ,Left,Medium,Pace,India,0
+I Porel,Ishan Porel,Bowler,0,Right ,Medium,Pace,India,0
+I Sodhi,Ish Sodhi,Bowler, Right Handed Bat ,Left,Leg Break,Spin,New Zealand,1
+I Udana,Isuru Udana,Bowling Allrounder, Right Handed Bat ,Left,Medium,Pace,SRI LANKA,1
+J Archer,Jofra Archer,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,England,1
+J Bairstow,Jonny Bairstow,WK-Batsman, Right Handed Bat ,0,0,0,England,1
+J Behrendorff,Jason Behrendorff,Bowler,0,Left,Fast,Pace,Australia,1
+J Botha,Johan Botha,Bowling Allrounder, Right Handed Bat ,Right ,Off Break,Spin,South Africa,1
+J Buttler,Jos Buttler,WK-Batsman, Right Handed Bat ,0,0,0,England,1
+J Dala,Junior Dala,Bowler,0,Right ,Medium,Pace,South Africa,1
+J Denly,Joe Denly,Batting Allrounder, Right Handed Bat ,Left,Leg Break,Spin,England,1
+J Duminy,JP Duminy,Batting Allrounder, Left Handed Bat ,Right ,Off Break,Spin,South Africa,1
+J Faulkner,James Faulkner,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+J Franklin,James Franklin,Bowling Allrounder, Left Handed Bat ,Left,Medium,Pace,New Zealand,1
+J Holder,Jason Holder,Bowling Allrounder, Right Handed Bat ,Right ,Medium,Pace,West Indies,1
+J Hopes,James Hopes,Bowling Allrounder, Right Handed Bat ,Right ,Medium,Pace,Australia,1
+J Kallis,Jacques Kallis,Batting Allrounder, Right Handed Bat ,Right ,Fast,Pace,South Africa,1
+J Morkel,Albie Morkel,Batting Allrounder, Left Handed Bat ,Right ,Medium,Pace,South Africa,1
+J Neesham,Jimmy Neesham,Batting Allrounder, Left Handed Bat ,Right ,Medium,Pace,New Zealand,1
+J Oram,Jacob Oram,Bowling Allrounder, Left Handed Bat ,Right ,Fast,Pace,New Zealand,1
+J Pattinson,James Pattinson,Bowler, Left Handed Bat ,Right ,Fast,Pace,Australia,1
+J Richardson,Jhye Richardson,Bowler, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+J Roy,Jason Roy,Batsman, Right Handed Bat ,0,0,0,England,1
+J Ryder,Jesse Ryder,Batting Allrounder, Left Handed Bat ,Right ,Medium,Pace,New Zealand,1
+J Searles,Javon Searles,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,West Indies,1
+J Sharma,Joginder Sharma,Batting Allrounder, Right Handed Bat ,Right ,Fast,Pace,India,0
+J SyedMohammad,Syed Mohammad,Bowling Allrounder, Left Handed Bat ,Left,Off Break,Spin,India,0
+J Taylor,Jerome Taylor,Bowler, Right Handed Bat ,Right ,Fast,Pace,West Indies,1
+J vanderWath,JJ Van Der Wath,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,South Africa,1
+JM Sharma,Jitesh Sharma,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+JR Philippe,Joshua Philippe,WK-Batsman, Right Handed Bat ,0,0,0,Australia,1
+K Abbott,Kyle Abbott,Bowler, Right Handed Bat ,Right ,Fast,Pace,South Africa,1
+K Appanna,KP Appanna,Bowler,0,Left,Off Break,Spin,India,0
+K ArunKarthik,Arun Karthik,WK-Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+K Asif,KM Asif,Bowler,0,Right ,Medium,Pace,India,0
+K Cooper,Kevon Cooper,Bowling Allrounder, Right Handed Bat ,Right ,Medium,Pace,West Indies,1
+K Gowtham,Krishnappa Gowtham,Bowling Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+K Jadhav,Kedar Jadhav,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+K Jamieson,Kyle Jamieson,Bowler, Right Handed Bat ,Right ,Fast,Pace,New Zealand,1
+K Karthik,Dinesh Karthik,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+K Kartikeya,Kumar Kartikeya Singh,Bowler, Right Handed Bat ,Left,Off Break,Spin,India,0
+K Khejroliya,Kulwant Khejroliya,Bowler,0,Left,Medium,Pace,India,0
+K Kulasekara,Nuwan Kulasekara,Bowler, Right Handed Bat ,Right ,Fast,Pace,Sri Lanka,1
+K Nair,Karun Nair,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+K Pandya,Krunal Pandya,Batting Allrounder, Left Handed Bat,Left,Off Break,Spin,India,0
+K Paul,Keemo Paul,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,West Indies,1
+K Pietersen,Kevin Pietersen,Batsman, Right Handed Bat ,Right ,Off Break,Spin,England,1
+K Pollard,Kieron Pollard,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,West Indies,1
+K Rabada,Kagiso Rabada,Bowler, Left Handed Bat ,Right ,Fast,Pace,South Africa,1
+K Rahul,Lokesh Rahul,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+K Sangakkara,Kumar Sangakkara,WK-Batsman, Left Handed Bat ,Right ,Off Break,Spin,Sri Lanka,1
+K Santokie,Krishmar Santokie,Bowler,0,Left,Medium,Pace,West Indies,1
+K Sen,Kuldeep Sen,Bowler, Right Handed Bat ,Right ,Fast,Pace,India,0
+K Sharma,Karn Sharma,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+K Singh,Karanveer Singh,Bowling Allrounder, Right Handed Bat ,Left,Leg Break,Spin,India,0
+K Upadhyay,Krishnakant Upadhyay,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+K Williamson,Kane Williamson,Batsman, Right Handed Bat ,Right ,Off Break,Spin,New Zealand,1
+K Yadav,Kuldip Yadav,Bowler, Left Handed Bat,Left,Fast,Pace,India,0
+Kartik Tyagi,Kartik Tyagi,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+KS Bharat,Srikar Bharat,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+KS Sharma,Karan Sharma,Batting Allrounder, Right Handed Bat ,0,0,0,India,0
+L Ablish,Love Ablish,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+L Livingstone,Liam Livingstone,Batsman, Right Handed Bat ,Right ,Both,0,England,1
+L Meriwala,Lukman Hussain Meriwala,Bowler,0,Left,Fast,Pace,India,0
+L Ngidi,Lungi Ngidi,Bowler,0,Right ,Fast,Pace,South Africa,1
+L Plunkett,Liam Plunkett,Bowler, Right Handed Bat ,Right ,Fast,Pace,England,1
+L Pomersbach,Luke Pomersbach,Batsman, Left Handed Bat ,Right ,Off Break,Spin,Australia,1
+L Shukla,Laxmi Shukla,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+L Simmons,Lendl Simmons,Batsman, Right Handed Bat ,Right ,Medium,Pace,West Indies,1
+L Taylor,Ross Taylor,Batsman, Right Handed Bat ,Right ,Off Break,Spin,New Zealand,1
+L Wright,Luke Wright,Bowling Allrounder, Right Handed Bat ,Right ,Medium,Pace,England,1
+L Yadav,Lalit Yadav,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+M Agarwal,Mayank Agarwal,Batsman, Right Handed Bat ,0,0,0,India,0
+M Ali,Moeen Ali,Batting Allrounder, Left Handed Bat ,Right ,Off Break,Spin,England,1
+M Ashwin,Murugan Ashwin,Bowler, Right Handed Bat ,Left,Leg Break,Spin,India,0
+M Bisla,Manvinder Bisla,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+M Boucher,Mark Boucher,WK-Batsman, Right Handed Bat ,Right ,Medium,Pace,South Africa,1
+M Choudhary,Mukesh Choudhary,Bowler, Left Handed Bat ,Left,Medium,Pace,India,0
+M Clarke,Michael Clarke,Batsman, Right Handed Bat ,Left,Off Break,Spin,Australia,1
+M Dhoni,MS Dhoni,WK-Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+M Guptill,Martin Guptill,Batsman, Right Handed Bat ,Right ,Off Break,Spin,New Zealand,1
+M Henriques,Moises Henriques,Batting Allrounder, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+M Henry,Matt Henry,Bowler,0,Right ,Fast,Pace,New Zealand,1
+M Hussey,Michael Hussey,Batsman, Left Handed Bat ,Right ,Medium,Pace,Australia,1
+M Jansen,Marco Jansen,Bowling Allrounder, Right Handed Bat ,Left,Fast,Pace,South Africa,1
+M Johnson,Mitchell Johnson,Bowler, Left Handed Bat ,Left,Fast,Pace,Australia,1
+M Juneja,Manpreet Juneja,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+M Kaif,Mohammad Kaif,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+M Klinger,Michael Klinger,Batsman, Right Handed Bat ,0,0,0,Australia,1
+M Lomror,Mahipal Lomror,Batting Allrounder, Left Handed Bat ,Left,Off Break,Spin,India,0
+M Lumb,Michael Lumb,Batsman, Left Handed Bat ,Right ,Medium,Pace,England,1
+M Manhas,Mithun Manhas,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+M Marsh,Mitchell Marsh,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,Australia,1
+M McClenaghan,MItchell McClenaghan,Bowler, Left Handed Bat ,Left,Fast,Pace,New Zealand,1
+M Mishra,Mohnish Mishra,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+M Morkel,Morne Morkel,Bowler, Left Handed Bat ,Right ,Fast,Pace,South Africa,1
+M Nabi,Mohammad Nabi,Bowling Allrounder, Right Handed Bat ,Right ,Off Break,Spin,Afghanistan,1
+M Pandey,Manish Pandey,Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+M Pathirana,Matheesha Prathirana,Bowler,0,Right ,Medium,Pace,Sri Lanka,1
+M Perera,Kusal Janith Perera,WK-Batsman, Left Handed Bat ,0,0,0,Sri Lanka,1
+M Rawat,Mahesh Rawat,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+M Samuels,Marlon Samuels,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,West Indies,1
+M Santner,Mitchell Santner,Bowling Allrounder, Left Handed Bat ,Left,Off Break,Spin,New Zealand,1
+M Shahrukh Khan,Shahrukh Khan,Batsman, Right Handed Bat ,0,0,0,India,0
+M Sharma,Mohit Sharma,Batting Allrounder, Left Handed Bat ,Right ,Medium,Pace,India,0
+M Singh,Mandeep Singh,Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+M Starc,Mitchell Starc,Bowler, Left Handed Bat ,Left,Fast,Pace,Australia,1
+M Stoinis,Marcus Stoinis,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,Australia,1
+M Theekshana,Maheesh Theekshana,Bowler, Right Handed Bat ,Right ,Off Break,Spin,Sri Lanka,1
+M Tiwary,Manoj Tiwary,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+M Vijay,Murali Vijay,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+M Vohra,Manan Vohra,Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+M Wade,Matthew Wade,WK-Batsman, Left Handed Bat ,Right ,Medium,Pace,Australia,1
+M Wood,Mark Wood,Bowler, Right Handed Bat ,Right ,Fast,Pace,England,1
+Mohsin Khan,Mohsin Khan,Bowler, Left Handed Bat ,Left,Medium,Pace,India,0
+N Doshi,Nayan Doshi,Bowler, Right Handed Bat ,Left,Off Break,Spin,England,1
+N Ellis,Nathan Ellis,Bowler, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+N Jagadeesan,Narayan Jagadeesan,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+N Maddinson,Nic Maddinson,Batsman, Left Handed Bat ,Left,Off Break,Spin,Australia,1
+N McCullum,Nathan McCullum,Bowling Allrounder, Right Handed Bat ,Right ,Off Break,Spin,New Zealand,1
+N Naik,Nikhil Naik,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+N Ojha,Naman Ojha,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+N Perera,Thisara Perera,Bowling Allrounder, Left Handed Bat ,Right ,Medium,Pace,Sri Lanka,1
+N Pooran,Nicholas Pooran,WK-Batsman, Left Handed Bat ,0,0,0,West Indies,1
+N Rana,Nitish Rana,Batsman, Left Handed Bat ,Right ,Off Break,Spin,India,0
+N Rimmington,Nathan Rimmington,Bowler, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+N Saini,Navdeep Saini,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+N Singh,Nathu singh,Bowler,0,Right ,Medium,Pace,India,0
+O Shah,Owais Shah,Batsman, Right Handed Bat ,Right ,Off Break,Spin,England,1
+O Smith,Odean Smith,Bowling Allrounder, Right Handed Bat ,Right ,Medium,Pace,West Indies,1
+O Thomas,Oshane Thomas,Bowler,0,Right ,Fast,Pace,West Indies,1
+OC McCoy,Obed McCoy,Bowler, Left Handed Bat ,Left,Fast,Pace,West Indies,1
+P Chawla,Piyush Chawla,Bowling Allrounder, Left Handed Bat ,Left,Leg Break,Spin,India,0
+P Chopra,Prashant Chopra,WK-Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+P Dubey,Praveen Dubey,Bowler, Right Handed Bat ,Left,Leg Break,Spin,India,0
+P Handscomb,Peter Handscomb,WK-Batsman, Right Handed Bat ,0,0,0,Australia,1
+P Krishna,Prasidh Krishna,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+P Kumar,Praveen Kumar,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+P Negi,Pawan Negi,Bowling Allrounder, Left Handed Bat ,Left,Off Break,Spin,India,0
+P Patel,Parthiv Patel,WK-Batsman, Left Handed Bat ,0,0,0,India,0
+P Raj,Prithvi Raj Yara,Bowler, Left Handed Bat,Left,Medium,Pace,India,0
+P Rasool,Parvez Rasool,Bowling Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+P RBarman,Prayas Barman,Bowling Allrounder, Right Handed Bat ,Left,Leg Break,Spin,India,0
+P Reddy,Akshath Reddy,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+P Sahu,Pradeep Sahu,Batting Allrounder, Right Handed Bat ,Left,Leg Break,Spin,India,0
+P Shah,Pinal Shah,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+P Shaw,Prithvi Shaw,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+P Singh,Pankaj Singh,Batsman,0,Right ,Medium,Pace,India,0
+P Solanki,Prashant Solanki,Bowling Allrounder,0,Right ,Leg Break,Spin,India,0
+P Suyal,Pawan Suyal,Bowler,0,Left,Medium,Pace,India,0
+P Tambe,Pravin Tambe,Bowler, Right Handed Bat ,Right ,Leg Break,Spin,India,0
+P Valthaty,Paul Valthaty,Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+PK Garg,Priyam Garg,Batsman, Right Handed Bat ,0,0,0,India,0
+PN Mankad,Prerak Mankad,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+Q deKock,Quinton de Kock,WK-Batsman, Left Handed Bat ,0,0,0,South Africa,1
+R Ashwin,Ravichandran Ashwin,Bowling Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+R Bawa,Raj Angad Bawa,Batting Allrounder, Left Handed Bat ,Right ,Medium,Pace,India,0
+R Bhatia,Rajat Bhatia,Bowling Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+R Bhatkal,Raju Bhatkal,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+R Bhui,Ricky Bhui,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+R Bopara,Ravi Bopara,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,England,1
+R Chahar,Rahul Chahar,Bowler, Right Handed Bat ,Left,Leg Break,Spin,India,0
+R Dhawan,Rishi Dhawan,Bowling Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+R Dravid,Rahul Dravid,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+R Gomez,Raiphi Gomez,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+R Harris,Ryan harris,Bowler, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+R Jadeja,Ravindra Jadeja,Bowling Allrounder, Left Handed Bat ,Left,Off Break,Spin,India,0
+R Khan,Rashid Khan,Bowler, Right Handed Bat ,Right ,Leg Break,Spin,Afghanistan,1
+R Levi,Richard Levi,Batsman, Right Handed Bat ,Right ,Medium,Pace,South Africa,1
+R McLaren,Ryan Mclaren,Bowling Allrounder, Left Handed Bat ,Right ,Medium,Pace,South Africa,1
+R More,Ronit More,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+R Ninan,Ryan Ninan,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+R Pant,Rishabh Pant,WK-Batsman, Left Handed Bat ,0,0,0,India,0
+R Parag,Riyan Parag,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+R Patel,Ripal Patel,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+R Peterson,Robin Peterson,Bowling Allrounder, Left Handed Bat ,Left,Off Break,Spin,South Africa,1
+R Ponting,Ricky Ponting,Batsman, Right Handed Bat ,Right ,Medium,Pace,Australia,1
+R Powell,Rovman Powell,Batsman, Right Handed Bat ,Right ,Medium,Pace,West Indies,1
+R Price,Ray Price,Bowler,0,Left,Off Break,Spin,Zimbabwe,1
+R Rampaul,Ravi Rampaul,Bowler, Left Handed Bat ,Right ,Fast,Pace,West Indies,1
+R Rossouw,Rilee Rossouw,Batsman, Left Handed Bat ,Right ,Off Break,Spin,South Africa,1
+R Sathish,Rajagopal Sathish,Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+R Shepherd,Romario Shepherd,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,West Indies,1
+R Shukla,Rahul Shukla,Batsman, Left Handed Bat ,Right ,Medium,Pace,India,0
+R tenDoeschate,Ryan ten Doeschate,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,Netherlands,1
+R Tripathi,Rahul Tripathi,Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+R Uthappa,Robin Uthappa,WK-Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+R vanderMerwe,Roelof Van der Merwe,Bowling Allrounder, Right Handed Bat ,Left,Off Break,Spin,Netherlands,1
+Ramandeep Singh,Ramandeep Singh,Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+Ravi Bishnoi,Ravi Bishnoi,Bowler, Right Handed Bat ,Left,Leg Break,Spin,India,0
+RD Gaikwad,RutuRaj Gaikwad,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+RG Sharma,Rohit Sharma,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+RK Singh,Rinku Singh,Batsman, Left Handed Bat ,Right ,Off Break,Spin,India,0
+RS Kishore,Sneha Kishore,Bowler,0,0,0,0,India,0
+RS Yadav,Sanjay Yadav,Batting Allrounder, Left Handed Bat ,Left,Off Break,Spin,India,0
+S Abbott,Sean Abbott,Bowler, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+S AlHasan,Shakib Al Hasan,Batting Allrounder, Left Handed Bat ,Left,Off Break,Spin,Bangladesh,1
+S Anirudha,Anirudha Srikkanth,Batsman, Right Handed Bat ,0,0,0,India,0
+S Asnodkar,Swapnil Asnodkar,Batting Allrounder, Right Handed Bat ,0,0,0,India,0
+S Baby,Sachin Baby,Batsman, Left Handed Bat ,Right ,Off Break,Spin,India,0
+S Badrinath,S Badrinath,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+S Billings,Sam billings,WK-Batsman, Right Handed Bat ,Left,Medium,Pace,India,0
+S Binny,Stuart Binny,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+S Boland,SM Boland,Bowler,0,Right ,Fast,Pace,Australia,1
+S Chitnis,Siddharth Chitnis,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+S Cottrell,Sheldon Cottrell,Bowler, Right Handed Bat ,Left,Fast,Pace,West Indies,1
+S Curran,Sam Curran,Bowling Allrounder, Left Handed Bat ,Left,Medium,Pace,England,1
+S Dhawan,Shikhar Dhawan,Batsman, Left Handed Bat ,Right ,Off Break,Spin,India,0
+S Dube,Shivam Dubey,Batting Allrounder, Left Handed Bat,Right ,Medium,Pace,India,0
+S Ganguly,Sourav Ganguly,Batsman, Left Handed Bat ,Right ,Medium,Pace,India,0
+S Gopal,Shreyas Gopal,Bowling Allrounder, Right Handed Bat ,Left,Leg Break,Spin,India,0
+S Goswami,Shreevats Goswami,WK-Batsman, Left Handed Bat ,0,0,0,India,0
+S Gupta,Sunny Gupta,Bowling Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+S Hetmyer,Shimron hetmyer,Batsman, Left Handed Bat ,Left,Leg Break,Spin,West Indies,1
+S Iyer,Shreyas Iyer,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+S Jackson,Sheldon Jackson,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+S Khan,Sarfaraz Khan,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+S Lad,Siddhesh Lad,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+S Ladda,Sarabjit Ladda,Bowler,0,Left,Leg Break,Spin,India,0
+S Marsh,Shaun Marsh,Batsman, Left Handed Bat ,Left,Off Break,Spin,Australia,1
+S Midhun,Sudhesan Midhun,Bowler,0,Left,Leg Break,Spin,India,0
+S Narine,Sunil Narine,Bowler, Left Handed Bat ,Right ,Off Break,Spin,West Indies,1
+S Narwal,Sumit Narwal,Batting Allrounder, Left Handed Bat ,Right ,Medium,Pace,India,0
+S Prabhudesai,Suyash Prabhudessai,Batting Allrounder, Right Handed Bat ,0,0,0,India,0
+S Raina,Suresh Raina,Batsman, Left Handed Bat ,Right ,Off Break,Spin,India,0
+S Rana,Sachin Rana,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+S Randiv,Suraj Randiv,Bowler, Right Handed Bat ,Right ,Off Break,Spin,Sri Lanka,1
+S Samson,Sanju Samson,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+S Senanayake,Sachithra Senanayake,Bowler, Right Handed Bat ,Right ,Off Break,Spin,Sri Lanka,1
+S Singh,Sunny Singh,Bowling Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+S Smith,Steven Smith,Batsman, Right Handed Bat ,Left,Leg Break,Spin,Australia,1
+S Sohal,Sunny Sohal,Batsman, Right Handed Bat ,Left,Leg Break,Spin,India,0
+S Sreesanth,Shanthakumaran Sreesanth,Bowler, Right Handed Bat ,Right ,Fast,Pace,India,0
+S Sriram,Sridharan Sriram,Bowling Allrounder, Left Handed Bat ,Left,Off Break,Spin,India,0
+S Srivastava,Shalabh Srivastava,Bowler, Right Handed Bat ,Left,Fast,Pace,India,0
+S Styris,Scott Styris,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,New Zealand,1
+S Tendulkar,Sachin Tendulkar,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+S Thakur,Shardul Thakur,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+S Tiwary,Saurabh Tiwary,Batsman, Left Handed Bat ,0,0,0,India,0
+S Trivedi,Siddharth Trivedi,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+S Wagh,Shrikant Wagh,Bowling Allrounder, Left Handed Bat ,Left,Medium,Pace,India,0
+S Warne,Shane Warne,Bowler, Right Handed Bat ,Left,Leg Break,Spin,Australia,1
+S Warrier,Sandeep Warrier,Bowler,0,Right ,Medium,Pace,India,0
+S Watson,Shane Watson,Batting Allrounder, Right Handed Bat ,Right ,Fast,Pace,Australia,1
+S Yadav,SuryaKumar Yadav,Batsman, Right Handed Bat ,Right ,Both,0,India,0
+Shahbaz Ahmed,Shahbaz Ahamad,Bowling Allrounder, Left Handed Bat,Left,Off Break,Spin,India,0
+Shashank Singh,Shashank Singh,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+Shubman Gill,Shubman Gill,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+Simarjeet Singh,Simarjeet Singh,Bowler, Right Handed Bat ,Right ,Fast,Pace,India,0
+Swapnil Singh,Swapnil Singh,Bowling Allrounder, Right Handed Bat ,Left,Off Break,Spin,India,0
+T Banton,Tom Banton,WK-Batsman, Right Handed Bat ,0,0,0,England,1
+T Baroka,Tejas Baroka,Bowler,0,Left,Leg Break,Spin,India,0
+T Birt,Travis Birt,Batsman, Left Handed Bat ,Right ,Medium,Pace,Australia,1
+T Curran,Tom Curran,Bowling Allrounder, Right Handed Bat ,Right ,Fast,Pace,England,1
+T David,Tim David,Batting Allrounder, Right Handed Bat ,0,0,0,Australia,1
+T Dilshan,Tillakaratne Dilshan,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,Sri Lanka,1
+T Head,Travis Head,Batting Allrounder, Left Handed Bat ,Right ,Off Break,Spin,Australia,1
+T Mills,Tymal Mills,Bowler, Right Handed Bat ,Left,Fast,Pace,England,1
+T Paine,Tim Paine,WK-Batsman, Right Handed Bat ,Right ,Medium,Pace,Australia,1
+T Seifert,Tim Seifert,WK-Batsman, Right Handed Bat ,0,0,0,New Zealand,1
+T Stubbs,T Stubbs,WK-Batsman, Right Handed Bat ,0,0,0,South Africa,1
+T Sudhindra,TP Sudhindra,Bowler,0,Right ,Fast,Pace,India,0
+T Suman,Tirumalasetti Suman,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+Tilak Varma,Tilak Varma,Batting Allrounder, Left Handed Bat ,Right ,Off Break,Spin,India,0
+U Birla,Udit Birla,Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+U Chand,Unmukt Chand,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+U Khawaja,Usman Khawaja,Batsman, Left Handed Bat ,Right ,Medium,Pace,Australia,1
+U Yadav,Umesh Yadav,Bowler, Right Handed Bat ,Right ,Fast,Pace,India,0
+V Arora,Vaibhav Arora,Bowler, Right Handed Bat ,Right ,Fast,Pace,India,0
+V Iyer,Venkatesh Iyer,Batting Allrounder, Left Handed Bat,Right ,Medium,Pace,India,0
+V Kohli,Virat Kohli,Batsman, Right Handed Bat ,Right ,Medium,Pace,India,0
+V Laxman,VVS Laxman,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+V PratapSingh,Veer Pratap Singh,Bowler, Right Handed Bat ,Right ,Medium,Pace,India,0
+V Sehwag,Virender Sehwag,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+V Shankar,Vijay Shankar,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+V Singh,Virat Singh,Batsman, Left Handed Bat ,Left,Leg Break,Spin,India,0
+V Vinod,Vishnu Vinod,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+V Zol,Vijay Zol,Batsman, Left Handed Bat ,Right ,Off Break,Spin,India,0
+W Hasaranga,Wanindu Hasaranga,Bowling Allrounder, Right Handed Bat ,Right ,Leg Break,Spin,Sri Lanka,1
+W Parnell,Wayne Parnell,Bowling Allrounder, Left Handed Bat ,Left,Medium,Pace,South Africa,1
+W Saha,Wriddhiman Saha,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+W Sundar,Washington Sundar,Batting Allrounder, Left Handed Bat ,Right ,Off Break,Spin,India,0
+X ThalaivanSargunam,Thalaivan Sargunam,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+Y Dayal,Yash Dayal,Bowler, Right Handed Bat ,Left,Medium,Pace,India,0
+Y GnaneswaraRao,Gnaneswara Rao,Batting Allrounder, Right Handed Bat ,Right ,Medium,Pace,India,0
+Y Nagar,Yogesh Nagar,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+Y Pathan,Yusuf Pathan,Batting Allrounder, Right Handed Bat ,Right ,Off Break,Spin,India,0
+Y Singh,Yuvraj Singh,Batting Allrounder, Left Handed Bat ,Left,Off Break,Spin,India,0
+Y Takawale,Yogesh Takawale,WK-Batsman, Right Handed Bat ,0,0,0,India,0
+Y VenugopalRao,Venugopal Rao,Batsman, Right Handed Bat ,Right ,Off Break,Spin,India,0
+Z Khan,Zaheer Khan,Bowler, Right Handed Bat ,Left,Fast,Pace,India,0
