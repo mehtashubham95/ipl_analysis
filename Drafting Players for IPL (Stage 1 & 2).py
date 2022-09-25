@@ -49,8 +49,8 @@ def rmspe(y_true, y_pred):
 main_data = pd.read_csv('ipl_08_22_bob_data.csv')
 pl_char = pd.read_csv('IPL_Player_Char.csv')
 sal_data = pd.read_csv('ipl_player_salary.csv')
-player_lu = pd.read_csv('Dissertation\sal_player_lu.csv')
-sf_flag = pd.read_csv('IPL Data\semi_final_flag.csv')
+player_lu = pd.read_csv('sal_player_lu.csv')
+sf_flag = pd.read_csv('semi_final_flag.csv')
 
 md_copy = main_data.copy(deep=True)
 
@@ -347,7 +347,6 @@ mlr_d1.loc[mlr_d1['Bowler Role'].str.contains(pat = 'Bowling Allrounder', na = F
 mlr_d1['s_matches'] = mlr_d1['innings_x']
 mlr_d1.loc[mlr_d1['s_matches'] < mlr_d1['innings_y'],'s_matches'] = mlr_d1['innings_y']
 
-#mlr_d1 = mlr_d1[mlr_d1['Tag'] != 'Retain']
 x = mlr_d1[['ind','bat_dots_pct','bowl_dots_pct',"bat_sr","runs_per_match","wickets_per_match","runs_conceeded_per_ball","raa","matches","cum_wl_per",'Salary_y','nationality','Batsman Role','Batsman Type','bowl_type','bowl_type2','Tag','Team','s_raa','wl_per','s_matches']]
 y = mlr_d1['Salary_x']
 x2 = x[['Salary_y','ind']]
