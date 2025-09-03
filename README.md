@@ -128,10 +128,6 @@ python -m src.main --stage all
   - Nationality information
   - Retention status
 
-## Example Output
-
-The framework produces optimized squads for the teams
-
 ## Dependencies
 
 - pandas >= 1.5.0
@@ -152,13 +148,6 @@ Edit `config.py` to customize:
 - Analysis parameters (seasons, weights)
 - Directory structure
 
-## Contributing
-
-1. Follow the modular structure for new features
-2. Add appropriate logging and error handling
-3. Update requirements.txt for new dependencies
-4. Maintain CSV input/Excel output convention
-5. Update documentation accordingly
 
 ## Applications
 
@@ -170,4 +159,4 @@ This framework can be:
 
 ## Support
 
-For questions about the framework structure or implementation, refer to the code documentation and migration guide.
+For questions about the framework structure or implementation, refer to the code documentation guide.
