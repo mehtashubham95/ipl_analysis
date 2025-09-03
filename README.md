@@ -4,7 +4,7 @@
 
 This project provides an end-to-end framework for Indian Premier League (IPL) franchises to build optimal squads that maximize their chances of qualifying for playoffs. The framework combines descriptive, predictive, and prescriptive analytics to identify key player attributes, predict player salaries, and create optimized team compositions within IPL constraints.
 
-Based on research presented at the MIT Sports Conference, this framework addresses the complex challenge of player drafting in the world's second most valued sporting league, serving an estimated 2.5 billion cricket fans worldwide.
+This framework addresses the complex challenge of player drafting in the world's second most valued sporting league, serving an estimated 2.5 billion cricket fans worldwide.
 
 ## Key Objectives
 
